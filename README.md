@@ -8,6 +8,6 @@ Download. Unzip.
 
 Go to chrome:extensions
 
-Drag this directory to that page.
+Drag the `extension` directory to that page.
 
 License: WTFPL
