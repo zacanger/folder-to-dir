@@ -4,6 +4,10 @@
 
 Installation:
 
-Usage:
+Download. Unzip.
+
+Go to chrome:extensions
+
+Drag this directory to that page.
 
 License: WTFPL
