@@ -1,13 +1,5 @@
 # folder-to-dir
 
---------
-
-Installation:
-
-Download. Unzip.
-
-Go to chrome:extensions
-
-Drag the `extension` directory to that page.
+https://chrome.google.com/webstore/detail/folder-to-directory/inafmojfchmicniofjifipcpjbpmokao
 
 License: WTFPL
