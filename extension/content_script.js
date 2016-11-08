@@ -1,6 +1,8 @@
+// http://stackoverflow.com/questions/5904914/javascript-regex-to-replace-text-not-in-html-attributes/5904945#5904945
 walk(document.body)
 
 function walk (node) {
+  if (!node || (node && !node.nodeType)) return
   var child, next
   switch (node.nodeType) {
     case 1: // Element
